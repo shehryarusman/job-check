@@ -1,1 +1,1 @@
-# job-check
+This is an app to view personalized job postings!
